@@ -60,4 +60,4 @@ Run scripts in your Python environment or Jupyter Notebook as needed.
 Ajeetjain1245
 
 ## 🌐 GitHub Repository
-https://github.com/Ajeetjain1245/codtech-data-science-internship
+[https://github.com/Ajeetjain1245/codtech-data-science-internship](https://github.com/Ajeetjain1245/codtech-internship-tasks)
